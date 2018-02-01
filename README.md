@@ -15,3 +15,17 @@
 `%asset_position^eq:1::,%` - First item without comma at the beginning (useful in asset listings)
 
 `%asset_contents_paint_<id>%` - Use for nesting paint layout
+
+## URL
+
+`&SQ_PAINT_LAYOUT_NAME=<name>` - User defined paint layout
+
+`&SQ_DESIGN_NAME=<name>` - User defined design
+
+`<url>/_nocache` - Shows page without cache
+
+`<url>/_recache` - Caches page again
+
+`<url>/_edit` - Edit+ Mode
+
+`<url>/_admin` - Admin Mode
