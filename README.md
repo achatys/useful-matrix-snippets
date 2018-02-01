@@ -18,6 +18,8 @@
 
 `%asset_data%` - Prints all information about asset
 
+`%globals_site_metadata_<name>%` - Site related metadata
+
 ## URL
 
 `&SQ_PAINT_LAYOUT_NAME=<name>` - User defined paint layout
