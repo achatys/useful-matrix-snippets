@@ -16,6 +16,8 @@
 
 `%asset_contents_paint_<id>%` - Use for nesting paint layout
 
+`%asset_data%` - Prints all information about asset
+
 ## URL
 
 `&SQ_PAINT_LAYOUT_NAME=<name>` - User defined paint layout
