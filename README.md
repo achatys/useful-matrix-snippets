@@ -20,6 +20,8 @@
 
 `%globals_site_metadata_<name>%` - Site related metadata
 
+`%asset_assetid^as_asset:asset_contents%` - Treat id as an asset and current scope
+
 ### KEYWORD HELPER
 
 Copy this to your bookmarks and use for keywords searching 
