@@ -32,6 +32,8 @@ javascript:(function()%7Bvar%20_thisVersion%20=%201.1;if(document.getElementById
 
 ## URL
 
+`?SQ_VIEW_SERVER_JS` - Server Side JS
+
 `&SQ_PAINT_LAYOUT_NAME=<name>` - User defined paint layout
 
 `&SQ_DESIGN_NAME=<name>` - User defined design
